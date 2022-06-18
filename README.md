@@ -1,8 +1,8 @@
 ## Opa, chega mais, eu sou o Philipe Morais! 👋
 <div align="center">
   <a href="https://github.com/PhMoraiis">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=phmoraiis&show_icons=true&bg_color=-45deg, #ffd400, #7209b7, #3a0ca3, #4361ee, #ffd400, #ffd400&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phmoraiis&layout=compact&langs_count=7&bg_color=-45deg, #ffd400, #7209b7, #3a0ca3, #4361ee, #ffd400, #ffd400"/>
+  <img widht="48%" src="https://github-readme-stats.vercel.app/api?username=phmoraiis&show_icons=true&bg_color=-45deg, #ffd400, #7209b7, #3a0ca3, #4361ee, #ffd400, #ffd400&include_all_commits=true&count_private=true"/>
+  <img widht="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phmoraiis&layout=compact&langs_count=7&bg_color=-45deg, #ffd400, #7209b7, #3a0ca3, #4361ee, #ffd400, #ffd400"/>
 </div>
   
   ##
