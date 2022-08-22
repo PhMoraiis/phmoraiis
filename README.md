@@ -1,8 +1,8 @@
 ## Opa, chega mais, eu sou o Philipe Morais! 👋
 <div align="center">
   <a href="https://github.com/PhMoraiis">
-  <img width=50% src="https://github-readme-stats.vercel.app/api?username=phmoraiis&show_icons=true&theme=swift&include_all_commits=true&count_private=true">
-  <img width=50% src="https://github-readme-stats.vercel.app/api/top-langs/?username=phmoraiis&layout=compact&theme=swift">
+  <img width=46% src="https://github-readme-stats.vercel.app/api?username=phmoraiis&show_icons=true&theme=swift&include_all_commits=true&count_private=true">
+  <img width=45% src="https://github-readme-stats.vercel.app/api/top-langs/?username=phmoraiis&layout=compact&theme=swift">
 </div>
   
   ##
