@@ -1,8 +1,8 @@
 ## Opa, chega mais, eu sou o Philipe Morais! 👋
 <div align="center">
   <a href="https://github.com/PhMoraiis">
-  <img width=46% src="https://github-readme-stats.vercel.app/api?username=phmoraiis&show_icons=true&theme=react&include_all_commits=true&count_private=true">
-  <img width=45% src="https://github-readme-stats.vercel.app/api/top-langs/?username=phmoraiis&layout=compact&theme=react">
+  <img width=46% src="https://github-readme-stats.vercel.app/api?username=phmoraiis&show_icons=true&theme=flag-india&include_all_commits=true&count_private=true">
+  <img width=45% src="https://github-readme-stats.vercel.app/api/top-langs/?username=phmoraiis&layout=compact&theme=flag-india">
 </div>
   
   ##
@@ -12,6 +12,8 @@
   <img align="center" alt="Logo - C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" />
   <img align="center" alt="Logo - HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Logo - CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Logo - Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
+  <img align="center" alt="Logo - SASS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
   <img align="center" alt="Logo - JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Logo - React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   <img align="center" alt="Logo - MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
@@ -21,9 +23,9 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Logo - Swift" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" />
   <img align="center" alt="Logo - XCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" />
+  <img align="center" alt="Logo - Vue.JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
   <img align="center" alt="Logo - AngularJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
-  <img align="center" alt="Logo - Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /> 
-  <img align="center" alt="Logo - Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
+  
 </div>
   
   ##
