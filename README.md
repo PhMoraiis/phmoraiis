@@ -3,9 +3,13 @@
 About me in English:<br><br>🔭 I am front end developer.<br>🌱 I'm currently learning Angular and ReactJS, but I can learn different technologies!<br>💬 Ask me what I'm working on right now.<br>🪐 Fun Fact: I love the universe and Saturn is the most beautiful planet!<br><br>Sobre mim: <br><br>🔭 Sou desenvolvedor front-end.<br>🌱 Atualmente estou aprendendo Angular e ReactJS, mas posso aprender diferentes tecnologias!<br>💬 Pergunte-me no que estou trabalhando agora.<br>🪐 Curiosidade: eu amo o universo e Saturno é o mais lindo planeta!
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=PhMoraiis&theme=swift&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=PhMoraiis&theme=swift&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
----
+<p align="center">
+<a href="https://github.com/PhMoraiis">
+  <img align="center" width="450px" src="https://github-readme-stats.vercel.app/api?username=phmoraiis&show_icons=true&theme=swift" />
+  <img align="center" width="450px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phmoraiis&show_icons=true&layout=compact&theme=swift" />
+</a>
+</p>
+
 
 ## 💻 Tech Stack:
 <div style="display: inline_block">
