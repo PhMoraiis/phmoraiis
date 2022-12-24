@@ -14,7 +14,7 @@ I'm Philipe Morais, I've been learning to develop since 2022. Today I'm studying
 <p align="center">
 <a href="https://github.com/PhMoraiis">
   <img width="400px" src="https://github-readme-stats.vercel.app/api?username=phmoraiis&show_icons=true&theme=swift" />
-  <img width="390px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phmoraiis&show_icons=true&layout=compact&theme=swift" />
+  <img width="393px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phmoraiis&show_icons=true&layout=compact&theme=swift" />
 </a>
 </p>
 
