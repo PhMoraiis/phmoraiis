@@ -5,8 +5,8 @@ About me in English:<br><br>🔭 I am front end developer.<br>🌱 I'm currently
 ## 📊 GitHub Stats:
 <p align="center">
 <a href="https://github.com/PhMoraiis">
-  <img width="370px" src="https://github-readme-stats.vercel.app/api?username=phmoraiis&show_icons=true&theme=swift" />
-  <img width="370px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phmoraiis&show_icons=true&layout=compact&theme=swift" />
+  <img width="400px" src="https://github-readme-stats.vercel.app/api?username=phmoraiis&show_icons=true&theme=swift" />
+  <img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phmoraiis&show_icons=true&layout=compact&theme=swift" />
 </a>
 </p>
 
