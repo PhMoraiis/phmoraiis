@@ -6,7 +6,7 @@ About me in English:<br><br>🔭 I am front end developer.<br>🌱 I'm currently
 <p align="center">
 <a href="https://github.com/PhMoraiis">
   <img width="350px" src="https://github-readme-stats.vercel.app/api?username=phmoraiis&show_icons=true&theme=swift" />
-  <img width="450px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phmoraiis&show_icons=true&layout=compact&theme=swift" />
+  <img width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phmoraiis&show_icons=true&layout=compact&theme=swift" />
 </a>
 </p>
 
