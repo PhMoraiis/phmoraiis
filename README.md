@@ -1,4 +1,4 @@
-# 👋 Opa, chega mais, eu sou o Philipe Morais!
+# 👋 Hi, I'm Philipe
 
 I'm Philipe Morais, I've been learning to develop since 2022. Today I'm studying Software Engineering at the University of Brasilia. I also create some development content on my Instagram, making posts to help everyone become a Dev. I work mainly in the Front-end area, and I focus mainly on ReactJS and NextJS, but I also have some knowledge in other frameworks. For more information access the links below or in the 'Socials' area.
 <br>
