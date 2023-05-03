@@ -11,9 +11,9 @@ I'm Philipe Morais, I've been learning to develop since 2022. Today I'm studying
 <br>
 
 ## 📊 GitHub Stats:
-<p align="center" display="flex">
+<p align="center">
 <a href="https://github.com/PhMoraiis">
-  <img width="400px" src="https://github-readme-stats.vercel.app/api?username=phmoraiis&show_icons=true&theme=swift" />
+  <img width="450px" src="https://github-readme-stats.vercel.app/api?username=phmoraiis&show_icons=true&theme=swift" />
   <img width="380px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phmoraiis&show_icons=true&layout=compact&theme=swift" />
 </a>
 </p>
