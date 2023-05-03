@@ -11,7 +11,7 @@ I'm Philipe Morais, I've been learning to develop since 2022. Today I'm studying
 <br>
 
 ## 📊 GitHub Stats:
-<div style="display: flex; flex-wrap: wrap; justify-content: center;">
+<div style="display: flex; justify-content: center;">
   <a href="https://github.com/PhMoraiis">
     <img width="50%" src="https://github-readme-stats.vercel.app/api?username=phmoraiis&show_icons=true&theme=swift" />
   </a>
