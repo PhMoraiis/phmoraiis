@@ -11,12 +11,15 @@ I'm Philipe Morais, I've been learning to develop since 2022. Today I'm studying
 <br>
 
 ## 📊 GitHub Stats:
-<p align="center">
-<a href="https://github.com/PhMoraiis">
-  <img width="470px" src="https://github-readme-stats.vercel.app/api?username=phmoraiis&show_icons=true&theme=swift" />
-  <img width="360px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phmoraiis&show_icons=true&layout=compact&theme=swift" />
-</a>
-</p>
+<div style="display: flex; flex-wrap: wrap; justify-content: center;">
+  <a href="https://github.com/PhMoraiis">
+    <img width="100%" src="https://github-readme-stats.vercel.app/api?username=phmoraiis&show_icons=true&theme=swift" />
+  </a>
+  <a href="https://github.com/PhMoraiis">
+    <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phmoraiis&show_icons=true&layout=compact&theme=swift" />
+  </a>
+</div>
+
 
 ## 💻 Tech Stack:
 <div style="display: inline_block">
